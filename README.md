@@ -30,7 +30,6 @@ Some info about me:<br>
       <ul>
         <li>C#</li>
         <li>Python</li>
-        <li>TypeScript</li>
       </ul>
     </td>
   </tr>
